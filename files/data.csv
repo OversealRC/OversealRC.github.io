@@ -1,352 +1,339 @@
 creditor,debtor,amount,risk
-Julie Cl,Mark E,3,4
-Julie Cl,Emma,35,3
-Julie Cl,Mat,58,4
-Julie Cl,Kirsty,2,2
-Julie Cl,Louise,11,1
-Julie Cl,Hannah,18,2
-Julie Cl,James,97,1
-Julie Cl,Sadie,27,2
-Julie Cl,Jo T,15,2
-Julie Cl,Sandy,41,4
-Julie Cl,Steve,28,1
-Julie Cl,Tim,40,4
-Julie Cl,Mark B,9,3
-Julie Cl,Adam,23,2
-Julie Cl,Others,37,4
-Julie Cl,Jo E,4,2
-Julie Cl,Carol,63,3
-Julie Cl,John,1,1
-Julie Cl,Susan,66,2
-Emma,Mark E,9,1
-Emma,Mat,57,1
-Emma,Kirsty,22,3
-Emma,Sadie,11,1
-Emma,Hannah,20,3
-Emma,Jo T,16,1
-Emma,Susan,61,4
-Emma,Steve,38,4
-Emma,Tim,35,2
-Emma,Jo E,11,1
-Emma,Adam,17,1
-Emma,Others,67,2
-Emma,James,90,1
-Emma,Carol,53,2
-Emma,John,6,3
-Emma,Graham,55,1
-Emma,Sandy,44,3
-Mat,Mark E,11,4
-Mat,Emma,50,1
-Mat,Kirsty,16,1
-Mat,Louise,16,2
-Mat,Hannah,34,1
-Mat,James,110,4
-Mat,Sadie,9,3
-Mat,Sandy,80,4
-Mat,Steve,40,2
-Mat,Tim,72,4
-Mat,Jo T,33,3
-Mat,Mark B,69,3
-Mat,Others,133,1
-Mat,Jo E,33,4
-Mat,Carol,82,3
-Mat,John,21,2
-Mat,Graham,94,4
-Mat,Susan,68,2
-Mat,Adam,20,4
-Kirsty,Mark E,14,3
-Kirsty,Emma,33,2
-Kirsty,Mat,55,3
-Kirsty,Louise,8,2
-Kirsty,Hannah,21,3
-Kirsty,James,65,3
-Kirsty,Sadie,12,3
-Kirsty,Sandy,58,3
-Kirsty,Steve,21,1
-Kirsty,Tim,34,4
-Kirsty,Mark B,43,3
-Kirsty,Adam,12,1
-Kirsty,Others,31,4
-Kirsty,Jo E,24,1
-Kirsty,Carol,53,3
-Kirsty,John,16,3
-Kirsty,Graham,32,1
-Kirsty,Susan,48,4
-Sadie,Mark E,18,3
-Sadie,Emma,43,1
-Sadie,Mat,42,3
-Sadie,Kirsty,10,4
-Sadie,Mark B,9,2
-Sadie,Hannah,13,4
-Sadie,James,50,4
-Sadie,Susan,25,4
-Sadie,Steve,31,3
-Sadie,Tim,26,3
-Sadie,Jo T,11,3
-Sadie,Adam,24,1
-Sadie,Others,36,1
-Sadie,Jo E,37,3
-Sadie,Carol,42,1
-Sadie,John,17,4
-Sadie,Sandy,21,4
-Hannah,Mark E,11,4
-Hannah,Emma,34,4
-Hannah,Mat,61,1
-Hannah,Kirsty,9,1
-Hannah,Sadie,3,1
-Hannah,James,56,4
-Hannah,Susan,45,1
-Hannah,Steve,41,1
-Hannah,Tim,40,4
-Hannah,Jo T,10,3
-Hannah,Adam,22,2
-Hannah,Others,47,1
-Hannah,Jo E,31,1
-Hannah,Carol,45,3
-Hannah,John,27,1
-Hannah,Graham,47,1
-Hannah,Sandy,49,1
-James,Mark E,7,3
-James,Emma,32,2
-James,Mat,66,4
-James,Kirsty,7,2
-James,Louise,4,2
-James,Hannah,14,4
-James,Jo T,7,2
-James,Sadie,15,4
-James,Sandy,50,3
-James,Steve,33,3
-James,Tim,41,4
-James,Mark B,31,4
-James,Adam,18,2
-James,Others,25,1
-James,Jo E,12,3
-James,Carol,53,4
-James,John,2,4
-James,Graham,35,2
-James,Susan,26,2
-Mark B,Mark E,17,1
-Mark B,Emma,48,3
-Mark B,Mat,81,1
-Mark B,Kirsty,16,4
-Mark B,Louise,9,1
-Mark B,James,80,4
-Mark B,Steve,33,4
-Mark B,Tim,68,3
-Mark B,Adam,2,1
-Mark B,Others,24,3
-Mark B,Jo E,1,1
-Mark B,Carol,121,4
-Mark B,Sandy,14,4
-Sam,Mark E,4,2
-Sam,Emma,29,3
-Sam,Mat,41,2
-Sam,Kirsty,13,1
-Sam,Susan,49,2
-Sam,James,55,4
-Sam,Louise,1,2
-Sam,Steve,16,3
-Sam,Tim,25,2
-Sam,Mark B,7,2
-Sam,Adam,5,3
-Sam,Sadie,11,1
-Sam,Others,6,1
-Sam,Jo E,24,1
-Sam,Carol,49,1
-Sam,Sandy,41,1
-Sandy,Mark E,9,1
-Sandy,Emma,39,1
-Sandy,Mat,70,3
-Sandy,Kirsty,13,1
-Sandy,Sadie,10,1
-Sandy,Hannah,25,1
-Sandy,Jo T,23,4
-Sandy,Susan,64,2
-Sandy,Steve,34,3
-Sandy,Tim,40,2
-Sandy,Jo E,28,2
-Sandy,Adam,16,1
-Sandy,Others,32,3
-Sandy,James,90,2
-Sandy,Carol,82,2
-Sandy,John,17,2
-Sandy,Graham,80,2
-Steve,Mark E,9,3
-Steve,Emma,31,1
-Steve,Mat,45,1
-Steve,Kirsty,10,1
-Steve,Louise,19,1
-Steve,Hannah,23,2
-Steve,Jo T,5,2
-Steve,Sadie,2,3
-Steve,Sandy,15,3
-Steve,Tim,26,1
-Steve,Jo E,23,2
-Steve,Adam,24,2
-Steve,Others,68,4
-Steve,James,57,2
-Steve,Carol,32,1
-Steve,John,16,1
-Steve,Graham,54,3
-Steve,Susan,35,1
-Tim,Mark E,17,1
-Tim,Emma,49,1
-Tim,Mat,85,3
-Tim,Kirsty,14,1
-Tim,Sadie,8,1
-Tim,Hannah,33,2
-Tim,Jo T,9,2
-Tim,Louise,11,3
-Tim,Sandy,74,4
-Tim,Steve,36,4
-Tim,Jo E,28,2
-Tim,Mark B,63,1
-Tim,Adam,22,1
-Tim,Others,78,1
-Tim,James,88,4
-Tim,Carol,77,1
-Tim,John,20,4
-Tim,Graham,76,4
-Tim,Susan,35,2
-Jo T,Mark E,9,3
-Jo T,Emma,41,4
-Jo T,Mat,67,4
-Jo T,Susan,46,2
-Jo T,Hannah,24,1
-Jo T,James,28,2
-Jo T,Sadie,24,4
-Jo T,Steve,49,2
-Jo T,Tim,15,1
-Jo T,Adam,24,2
-Jo T,Others,13,2
-Jo T,Carol,63,1
-Jo T,Sandy,50,3
-Melissa,Mark E,13,4
-Melissa,Emma,40,3
-Melissa,Mat,21,3
-Melissa,Kirsty,19,4
-Melissa,Sadie,8,2
-Melissa,Hannah,29,2
-Melissa,James,37,2
-Melissa,Susan,38,3
-Melissa,Jo T,9,1
-Melissa,Steve,34,4
-Melissa,Tim,29,2
-Melissa,Mark B,5,2
-Melissa,Adam,29,2
-Melissa,Others,42,4
-Melissa,Jo E,15,1
-Melissa,Carol,42,2
-Melissa,John,12,4
-Melissa,Graham,50,2
-Melissa,Sandy,42,3
-Others,Mark E,102,1
-Others,Emma,329,1
-Others,Mat,511,3
-Others,Kirsty,39,4
-Others,Louise,118,4
-Others,Hannah,227,4
-Others,James,295,1
-Others,Sadie,59,2
-Others,Jo T,8,3
-Others,Steve,438,3
-Others,Tim,235,4
-Others,Mark B,15,3
-Others,Susan,143,3
-Others,Adam,187,2
-Others,Others,624,1
-Others,Jo E,116,3
-Others,Carol,265,2
-Others,John,70,3
-Others,Graham,162,3
-Others,Sandy,221,2
-Julie Ch,Mark E,11,4
-Julie Ch,Emma,31,4
-Julie Ch,Mat,75,3
-Julie Ch,Kirsty,15,3
-Julie Ch,Louise,8,3
-Julie Ch,Hannah,43,2
-Julie Ch,James,80,2
-Julie Ch,Sadie,10,3
-Julie Ch,Jo T,22,1
-Julie Ch,Sandy,49,2
-Julie Ch,Steve,24,3
-Julie Ch,Tim,39,3
-Julie Ch,Mark B,10,4
-Julie Ch,Adam,19,3
-Julie Ch,Others,52,4
-Julie Ch,Jo E,29,4
-Julie Ch,Carol,55,1
-Julie Ch,John,29,1
-Julie Ch,Graham,77,2
-Julie Ch,Susan,60,4
-Carol,Mark E,11,1
-Carol,Emma,73,4
-Carol,Mat,115,1
-Carol,Kirsty,27,3
-Carol,Louise,12,1
-Carol,Hannah,59,4
-Carol,Jo T,45,2
-Carol,Sadie,20,4
-Carol,Sandy,92,1
-Carol,Steve,60,3
-Carol,Tim,78,2
-Carol,Mark B,93,1
-Carol,Jo E,51,1
-Carol,Adam,24,3
-Carol,Others,100,4
-Carol,James,124,3
-Carol,John,17,3
-Carol,Graham,104,2
-Carol,Susan,91,1
-John,Mark E,17,4
-John,Emma,26,3
-John,Mat,42,3
-John,Kirsty,11,1
-John,Sadie,10,4
-John,Hannah,9,3
-John,James,42,3
-John,Mark B,2,2
-John,Steve,36,1
-John,Tim,23,1
-John,Jo T,6,2
-John,Adam,25,2
-John,Others,28,3
-John,Jo E,2,3
-John,Carol,32,2
-John,Graham,52,3
-John,Sandy,30,1
-Alison,Mark E,14,1
-Alison,Emma,59,2
-Alison,Mat,78,3
-Alison,Kirsty,20,4
-Alison,Sadie,14,2
-Alison,Hannah,36,3
-Alison,James,67,3
-Alison,Susan,61,2
-Alison,Steve,49,1
-Alison,Tim,51,1
-Alison,Adam,28,4
-Alison,Others,49,2
-Alison,Jo E,31,1
-Alison,Carol,60,4
-Alison,John,25,1
-Alison,Graham,72,1
-Alison,Sandy,56,2
-Susan,Mark E,9,4
-Susan,Emma,59,1
-Susan,Mat,93,4
-Susan,Kirsty,24,1
-Susan,Louise,18,2
-Susan,Hannah,37,4
-Susan,James,105,3
-Susan,Sadie,12,4
-Susan,Steve,52,3
-Susan,Tim,56,1
-Susan,Mark B,14,1
-Susan,Adam,33,3
-Susan,Others,98,4
-Susan,Jo E,40,1
-Susan,Carol,82,3
-Susan,Jo T,30,3
-Susan,Sandy,84,4
+Sharon,Michelle,4,1
+Sharon,Mat,2,1
+Sharon,James,5,1
+Sharon,Louise,5,2
+Sharon,Julie H,5,3
+Sharon,Vickie,4,1
+Sharon,Jane P,5,1
+Sharon,Steve M,2,3
+Sharon,Dorota,4,1
+Sharon,Sarah D,5,3
+Sharon,John C,1,3
+Sharon,Wayne,5,4
+Sharon,Emma S,5,3
+Sharon,Others,24,2
+Sharon,Carol,4,2
+Sharon,Sandy,5,2
+Sharon,Katie R,4,1
+Emma,Michelle,2,4
+Emma,Mat,1,3
+Emma,Louise,4,2
+Emma,Julie H,4,2
+Emma,James,4,3
+Emma,Jane P,4,3
+Emma,Susan,2,2
+Emma,Vickie,2,3
+Emma,Dorota,3,3
+Emma,Sarah D,4,3
+Emma,Sharon,3,1
+Emma,John C,2,2
+Emma,Wayne,4,2
+Emma,Emma S,4,2
+Emma,Others,4,3
+Emma,Carol,1,3
+Emma,Graham,1,3
+Emma,Sandy,4,1
+Emma,Katie R,1,4
+Mat,Sharon,5,1
+Mat,Sandy,5,4
+Mat,James,6,4
+Mat,Louise,5,2
+Mat,Julie H,6,2
+Mat,Vickie,1,1
+Mat,Jane P,6,3
+Mat,Steve M,2,1
+Mat,Dorota,4,4
+Mat,Sarah D,6,1
+Mat,John C,1,1
+Mat,Wayne,5,2
+Mat,Emma S,6,1
+Mat,Others,13,1
+Mat,Carol,1,4
+Mat,Graham,6,3
+Mat,Susan,2,1
+Sam,Mat,3,2
+Sam,Louise,6,3
+Sam,Julie H,1,4
+Sam,James,6,4
+Sam,Jane P,5,3
+Sam,Steve M,2,2
+Sam,Dorota,5,3
+Sam,Sarah D,5,3
+Sam,John C,1,2
+Sam,Wayne,4,3
+Sam,Emma S,6,2
+Sam,Others,1,1
+Sam,Carol,3,1
+Sam,Sandy,5,1
+Michelle,Sharon,6,1
+Michelle,Mat,4,4
+Michelle,Louise,6,1
+Michelle,Julie H,6,3
+Michelle,James,6,1
+Michelle,Jane P,4,3
+Michelle,Steve M,4,4
+Michelle,Dorota,2,3
+Michelle,John C,3,4
+Michelle,Wayne,6,3
+Michelle,Emma S,6,3
+Michelle,Others,5,2
+Michelle,Carol,3,1
+Michelle,Sandy,5,1
+Julie H,Michelle,5,1
+Julie H,Mat,7,3
+Julie H,Susan,6,2
+Julie H,James,7,2
+Julie H,Jane P,7,4
+Julie H,Louise,7,3
+Julie H,Dorota,3,1
+Julie H,Sarah D,7,3
+Julie H,Sharon,7,3
+Julie H,John C,2,2
+Julie H,Wayne,7,3
+Julie H,Emma S,7,2
+Julie H,Others,9,1
+Julie H,Steve M,4,1
+Julie H,Carol,3,3
+Julie H,Sandy,5,3
+Julie H,Katie R,4,3
+Vickie,Sharon,7,2
+Vickie,Mat,6,3
+Vickie,Louise,7,1
+Vickie,Julie H,7,1
+Vickie,James,8,1
+Vickie,Jane P,8,4
+Vickie,Steve M,4,1
+Vickie,Dorota,5,3
+Vickie,Sarah D,4,4
+Vickie,John C,4,3
+Vickie,Wayne,5,2
+Vickie,Emma S,8,4
+Vickie,Others,17,2
+Vickie,Carol,3,3
+Vickie,Katie R,6,4
+Jane P,Sharon,7,4
+Jane P,Mat,6,4
+Jane P,James,7,4
+Jane P,Louise,7,2
+Jane P,Julie H,7,2
+Jane P,Vickie,5,2
+Jane P,Steve M,4,4
+Jane P,Dorota,5,4
+Jane P,Sarah D,7,2
+Jane P,John C,1,2
+Jane P,Wayne,7,2
+Jane P,Emma S,7,2
+Jane P,Others,20,2
+Jane P,Carol,6,1
+Jane P,Sandy,5,2
+Jane P,Katie R,7,4
+Susan,Michelle,6,3
+Susan,Mat,6,4
+Susan,Louise,6,4
+Susan,Julie H,5,3
+Susan,James,6,1
+Susan,Jane P,6,3
+Susan,Steve M,4,2
+Susan,Vickie,3,3
+Susan,Dorota,4,2
+Susan,Sarah D,5,4
+Susan,John C,3,4
+Susan,Emma S,6,4
+Susan,Others,15,2
+Susan,Carol,5,1
+Susan,Sandy,6,2
+Susan,Katie R,4,4
+Julie Ch,Mat,6,3
+Julie Ch,James,6,1
+Julie Ch,Louise,6,2
+Julie Ch,Julie H,4,1
+Julie Ch,Vickie,2,3
+Julie Ch,Jane P,4,4
+Julie Ch,Susan,6,1
+Julie Ch,Dorota,3,4
+Julie Ch,Sarah D,2,4
+Julie Ch,John C,3,3
+Julie Ch,Emma S,6,3
+Julie Ch,Others,18,2
+Julie Ch,Steve M,6,4
+Julie Ch,Carol,2,4
+Julie Ch,Graham,6,3
+Julie Ch,Sandy,2,4
+Julie Ch,Katie R,6,2
+Alison,Sharon,5,2
+Alison,Mat,5,4
+Alison,Michelle,4,1
+Alison,Louise,7,4
+Alison,Julie H,6,4
+Alison,Vickie,5,3
+Alison,Jane P,8,3
+Alison,Susan,5,2
+Alison,Dorota,5,1
+Alison,Sarah D,7,4
+Alison,John C,5,2
+Alison,Wayne,7,3
+Alison,Emma S,8,4
+Alison,Others,24,1
+Alison,James,7,2
+Alison,Steve M,4,3
+Alison,Carol,6,2
+Alison,Graham,6,3
+Alison,Sandy,6,3
+Alison,Katie R,6,4
+Debby,Sharon,4,2
+Debby,Sandy,1,2
+Debby,Mat,3,4
+Debby,James,4,3
+Debby,Louise,4,1
+Debby,Julie H,4,4
+Debby,Vickie,3,4
+Debby,Jane P,4,3
+Debby,Steve M,3,3
+Debby,Dorota,3,1
+Debby,Sarah D,2,4
+Debby,Wayne,4,4
+Debby,Emma S,4,3
+Debby,Others,9,1
+Debby,Carol,4,2
+Debby,Susan,2,1
+Debby,Katie R,2,3
+John C,Michelle,4,4
+John C,Sandy,5,3
+John C,Mat,4,1
+John C,James,4,1
+John C,Louise,4,2
+John C,Julie H,5,3
+John C,Vickie,4,4
+John C,Jane P,5,2
+John C,Steve M,2,2
+John C,Dorota,4,4
+John C,Sarah D,5,2
+John C,Wayne,3,4
+John C,Emma S,5,2
+John C,Others,12,2
+John C,Carol,3,3
+John C,Susan,2,4
+John C,Katie R,2,1
+Wayne,Sharon,8,4
+Wayne,Mat,4,4
+Wayne,Michelle,8,3
+Wayne,Louise,8,3
+Wayne,Julie H,8,1
+Wayne,Vickie,6,4
+Wayne,Jane P,8,3
+Wayne,Steve M,4,2
+Wayne,Dorota,6,4
+Wayne,Sarah D,8,2
+Wayne,Emma S,8,1
+Wayne,Others,25,4
+Wayne,James,8,3
+Wayne,Carol,6,4
+Wayne,Sandy,6,4
+Wayne,Katie R,6,3
+Mark B,Mat,7,4
+Mark B,Louise,8,2
+Mark B,Julie H,8,4
+Mark B,James,8,3
+Mark B,Jane P,8,4
+Mark B,Steve M,4,4
+Mark B,Dorota,6,1
+Mark B,Sarah D,8,2
+Mark B,John C,5,4
+Mark B,Others,4,1
+Mark B,Carol,8,2
+Mark B,Sandy,4,2
+Others,Sharon,48,4
+Others,Mat,66,1
+Others,Michelle,9,1
+Others,Julie H,31,2
+Others,James,98,3
+Others,Jane P,42,3
+Others,Susan,21,1
+Others,Vickie,15,3
+Others,Dorota,52,3
+Others,Sarah D,45,3
+Others,John C,17,2
+Others,Wayne,49,2
+Others,Louise,65,2
+Others,Emma S,72,1
+Others,Others,166,1
+Others,Steve M,32,3
+Others,Carol,39,1
+Others,Graham,27,1
+Others,Sandy,63,1
+Others,Katie R,39,3
+Steve M,Sharon,7,3
+Steve M,Mat,5,4
+Steve M,Michelle,6,2
+Steve M,Louise,7,4
+Steve M,Julie H,3,4
+Steve M,Vickie,2,4
+Steve M,Jane P,7,3
+Steve M,Susan,6,1
+Steve M,Dorota,1,4
+Steve M,Sarah D,5,4
+Steve M,John C,1,1
+Steve M,Wayne,5,3
+Steve M,Emma S,7,1
+Steve M,Others,22,4
+Steve M,James,5,4
+Steve M,Carol,4,4
+Steve M,Graham,3,3
+Steve M,Sandy,2,4
+Steve M,Katie R,6,1
+Carol,Sharon,7,4
+Carol,Sandy,5,3
+Carol,Mat,6,3
+Carol,Michelle,6,4
+Carol,Louise,7,3
+Carol,Julie H,7,1
+Carol,Vickie,3,1
+Carol,Jane P,7,1
+Carol,Steve M,6,2
+Carol,Dorota,3,3
+Carol,Sarah D,5,2
+Carol,John C,4,4
+Carol,Wayne,7,2
+Carol,Emma S,7,1
+Carol,Others,28,2
+Carol,James,7,1
+Carol,Graham,7,1
+Carol,Susan,6,4
+Carol,Katie R,3,2
+Sandy,Sharon,4,3
+Sandy,Mat,6,4
+Sandy,Michelle,2,3
+Sandy,Louise,9,2
+Sandy,Julie H,9,3
+Sandy,James,9,2
+Sandy,Jane P,9,2
+Sandy,Steve M,4,3
+Sandy,Dorota,6,2
+Sandy,Sarah D,9,1
+Sandy,John C,4,1
+Sandy,Wayne,6,2
+Sandy,Emma S,9,2
+Sandy,Others,34,2
+Sandy,Carol,4,4
+Sandy,Graham,9,4
+Sandy,Susan,6,4
+Sandy,Katie R,6,4
+Emma S,Sharon,5,1
+Emma S,Mat,4,3
+Emma S,Michelle,2,2
+Emma S,Louise,5,2
+Emma S,Julie H,5,4
+Emma S,Vickie,3,3
+Emma S,Jane P,5,2
+Emma S,Steve M,4,3
+Emma S,Dorota,3,2
+Emma S,Sarah D,5,3
+Emma S,John C,2,2
+Emma S,Wayne,5,3
+Emma S,Sandy,5,2
+Emma S,Others,18,1
+Emma S,James,5,4
+Emma S,Carol,1,4
+Emma S,Susan,4,2
+Emma S,Katie R,4,1
